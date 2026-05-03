@@ -1,71 +1,94 @@
-# 👋 Hi, I'm Karthik
+# N. Karthik Mohan Rao
 
-🎓 BTech Computer Science Student
-💻 Aspiring Full Stack Developer | Java + DSA
-🚀 Building real-world projects & improving problem-solving
+**Backend Developer · Blockchain Tinkerer · CS Student @ BIT Durg**
 
 ---
 
-## 🧠 About Me
+## About Me
 
-* 🔭 Currently working on **CampusWire (Smart Campus Platform)**
-* 🌱 Learning **Data Structures & Algorithms (Java)**
-* ⚡ Exploring **Full Stack Development (MERN)**
-* 🎯 Goal: Become a strong Software Engineer with real-world impact
+B.Tech (Lateral Entry) student in Computer Science & Technology at BIT Durg, CSVTU — currently in my 2nd year. I come with a Diploma in CSE (CGPA 8.85) and a background in building full-stack web systems from scratch.
 
----
+I focus on backend architecture, database design, and writing systems that are structured, secure, and maintainable. I don't just follow tutorials — I build real platforms and ship working code.
 
-## 🛠️ Tech Stack
-
-💻 Languages
-
-* Java
-* JavaScript
-
-🌐 Frontend
-
-* HTML, CSS, JavaScript
-
-⚙️ Backend (Learning Phase)
-
-* Node.js, Express
-
-🗄️ Database
-
-* MongoDB (learning)
+- Currently building **CampusWires** — a multi-college campus management platform
+- Hands-on with **Stellar Soroban** smart contracts (Rust-based blockchain development)
+- Attended a **Cybersecurity Bootcamp at IIT Bhilai**
+- Completed **Industrial Vocational Training** in PHP Web Development at Sensible Academy
 
 ---
 
-## 🚀 Projects
+## Tech Stack
 
-### 🔹 CampusWire
+**Languages**
+`Java` `JavaScript` `PHP` `C` `Rust (Basic)`
 
-Smart campus platform with:
+**Frontend**
+`HTML5` `CSS3` `React.js` `JavaScript ES6+`
 
-* Role-based dashboards (Student / Teacher / Admin)
-* Events, Blogs, Discussions
-* Internship & Achievement tracking
+**Backend & Databases**
+`Node.js` `PHP Full-Stack` `MySQL` `REST APIs` `JWT Authentication`
 
-👉 (Add your repo link here)
+**Blockchain**
+`Stellar Network` `Soroban SDK` `Smart Contracts` `Multi-Sig DApp Architecture`
 
----
+**Core CS**
+`Data Structures & Algorithms` `OOP` `DBMS` `Relational Schema Design`
 
-## 📈 What I'm Focused On
-
-* Solving DSA problems daily
-* Building strong backend systems
-* Creating real-world impactful projects
-
----
-
-## 🤝 Let's Connect
-
-* 💬 Ask me about: Java, DSA, Web Dev
-* 📫 Email: (your email here)
-* 🔗 LinkedIn: (your link here)
+**Tools**
+`Git` `GitHub` `VS Code` `MySQL Workbench` `Linux (Basic)`
 
 ---
 
-## ⚡ Fun Fact
+## Projects
 
-I don't just learn code — I build things that actually solve problems.
+### CampusWires — Campus Event & Club Management Platform
+`React` `Node.js` `PHP` `MySQL` · *In Active Development*
+
+A multi-college web platform for event discovery, club management, and real-time announcements — built to scale across institutions.
+
+- Role-based authentication (student / club-admin / super-admin) with JWT-secured sessions and layered permission control
+- Modules for club registration, event creation, member management, and an admin approval dashboard
+- Normalised MySQL schema with relational integrity constraints and multi-college data isolation
+- Broadcast notification system for admin-to-student announcements
+
+---
+
+### Multi-Signature Wallet — Soroban Smart Contract
+`Rust` `Stellar Soroban SDK` · *Stellar Blockchain Bootcamp — Competitive Project*
+
+A decentralised M-of-N multi-sig wallet deployed as a Soroban smart contract on the Stellar blockchain.
+
+- Requires configurable quorum approval from authorised signers before any transaction executes
+- Rust ownership model applied for zero-panic on-chain logic
+- Verified across approval and rejection scenarios; demonstrates understanding of distributed consensus and trustless verification
+
+---
+
+### E-Commerce Web Application
+`PHP` `HTML/CSS` `MySQL` · *Vocational Training Deliverable*
+
+Full-stack multi-page e-commerce platform built from scratch during industrial training.
+
+- Product catalogue, cart management, and user authentication — end to end
+- Parameterised queries and server-side validation to eliminate SQL injection vulnerabilities
+
+---
+
+## Current Focus
+
+- Scaling **CampusWires** to support multi-college scope with production-level auth and event management
+- Deepening knowledge in **system design**, **backend architecture**, and **web security**
+- Exploring **Node.js** and **MongoDB** for modern API development
+- Preparing for **Summer Research Internships** at IITs / NITs
+
+---
+
+## Connect
+
+- **Email:** nkarthik935@gmail.com
+- **LinkedIn:** [linkedin.com/in/n-karthik-mohan-rao](https://linkedin.com/in/n-karthik-mohan-rao)
+- **GitHub:** [github.com/n-karthik](https://github.com/n-karthik)
+
+---
+
+> *"Build things that work. Understand why they work. Then make them better."*
