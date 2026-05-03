@@ -86,8 +86,12 @@ Full-stack multi-page e-commerce platform built from scratch during industrial t
 ## Connect
 
 - **Email:** nkarthik935@gmail.com
-- **LinkedIn:** [linkedin.com/in/n-karthik-mohan-rao](https://linkedin.com/in/n-karthik-mohan-rao)
-- **GitHub:** [github.com/n-karthik](https://github.com/n-karthik)
+- **LinkedIn:** ...
+- **GitHub:** ...
+
+---
+
+![Karthik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=n-karthik&show_icons=true&theme=default&hide_border=true)
 
 ---
 
