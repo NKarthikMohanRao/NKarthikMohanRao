@@ -68,10 +68,4 @@ REST API wrapping a trained ML model from IIIT Naya Raipur training. Deployed pu
 
 ---
 
-## GitHub stats
-
-![Karthik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=n-karthik&show_icons=true&hide_border=true&theme=default)
-
----
-
 📬 nkarthik935@gmail.com · [LinkedIn](https://www.linkedin.com/in/n-karthik-mohan-rao-b91b32283/)
