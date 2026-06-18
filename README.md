@@ -1,97 +1,77 @@
 # N. Karthik Mohan Rao
-
-**Backend Developer · Blockchain Tinkerer · CS Student @ BIT Durg**
-
----
-
-## About Me
-
-B.Tech (Lateral Entry) student in Computer Science & Technology at BIT Durg, CSVTU — currently in my 2nd year. I come with a Diploma in CSE (CGPA 8.85) and a background in building full-stack web systems from scratch.
-
-I focus on backend architecture, database design, and writing systems that are structured, secure, and maintainable. I don't just follow tutorials — I build real platforms and ship working code.
-
-- Currently building **CampusWires** — a multi-college campus management platform
-- Hands-on with **Stellar Soroban** smart contracts (Rust-based blockchain development)
-- Attended a **Cybersecurity Bootcamp at IIT Bhilai**
-- Completed **Industrial Vocational Training** in PHP Web Development at Sensible Academy
+**Backend engineer · CS student at BIT Durg · Building systems that scale**
 
 ---
 
-## Tech Stack
+B.Tech CST (Lateral Entry, 4th sem) at BIT Durg. Diploma in CSE — 8.85 CGPA. I build backend systems, design databases, and write code that I'd actually want to maintain. Currently building **CampusWires** — a multi-college campus platform with production-level auth, role-based access, and a normalized schema that isolates data across institutions.
 
-**Languages**
-`Java` `JavaScript` `PHP` `C` `Rust (Basic)`
-
-**Frontend**
-`HTML5` `CSS3` `React.js` `JavaScript ES6+`
-
-**Backend & Databases**
-`Node.js` `PHP Full-Stack` `MySQL` `REST APIs` `JWT Authentication`
-
-**Blockchain**
-`Stellar Network` `Soroban SDK` `Smart Contracts` `Multi-Sig DApp Architecture`
-
-**Core CS**
-`Data Structures & Algorithms` `OOP` `DBMS` `Relational Schema Design`
-
-**Tools**
-`Git` `GitHub` `VS Code` `MySQL Workbench` `Linux (Basic)`
+Trained in AI and ML at IIIT Naya Raipur. Built a working M-of-N multi-sig wallet on Stellar Soroban. Attended a cybersecurity bootcamp at IIT Bhilai. Google Student Ambassador 2026.
 
 ---
 
-## Projects
+## What I'm working on
 
-### CampusWires — Campus Event & Club Management Platform
-`React` `Node.js` `PHP` `MySQL` · *In Active Development*
-
-A multi-college web platform for event discovery, club management, and real-time announcements — built to scale across institutions.
-
-- Role-based authentication (student / club-admin / super-admin) with JWT-secured sessions and layered permission control
-- Modules for club registration, event creation, member management, and an admin approval dashboard
-- Normalised MySQL schema with relational integrity constraints and multi-college data isolation
-- Broadcast notification system for admin-to-student announcements
+- **CampusWires** — migrating backend from PHP to Node.js, adding Redis caching, targeting 3+ colleges
+- **DSA in Java** — grinding LeetCode and Codeforces, building towards Google SWE 2027
+- **ML inference API** from IIIT Raipur training — wrapping a trained model as a deployed REST endpoint
+- **Open source contributions** — looking for good first issues in Node.js ecosystem projects
 
 ---
 
-### Multi-Signature Wallet — Soroban Smart Contract
-`Rust` `Stellar Soroban SDK` · *Stellar Blockchain Bootcamp — Competitive Project*
+## Tech
 
-A decentralised M-of-N multi-sig wallet deployed as a Soroban smart contract on the Stellar blockchain.
+![Java](https://img.shields.io/badge/Java-0C447C?style=flat-square&logoColor=white&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-633806?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-27500A?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-444441?style=flat-square&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-712B13?style=flat-square&logo=rust&logoColor=white)
 
-- Requires configurable quorum approval from authorised signers before any transaction executes
-- Rust ownership model applied for zero-panic on-chain logic
-- Verified across approval and rejection scenarios; demonstrates understanding of distributed consensus and trustless verification
+![Node.js](https://img.shields.io/badge/Node.js-085041?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-085041?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-085041?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-085041?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-085041?style=flat-square&logo=redis&logoColor=white)
 
----
+![React](https://img.shields.io/badge/React-444441?style=flat-square&logo=react&logoColor=white)
+![Git](https://img.shields.io/badge/Git-444441?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-444441?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-444441?style=flat-square&logo=linux&logoColor=white)
 
-### E-Commerce Web Application
-`PHP` `HTML/CSS` `MySQL` · *Vocational Training Deliverable*
-
-Full-stack multi-page e-commerce platform built from scratch during industrial training.
-
-- Product catalogue, cart management, and user authentication — end to end
-- Parameterised queries and server-side validation to eliminate SQL injection vulnerabilities
-
----
-
-## Current Focus
-
-- Scaling **CampusWires** to support multi-college scope with production-level auth and event management
-- Deepening knowledge in **system design**, **backend architecture**, and **web security**
-- Exploring **Node.js** and **MongoDB** for modern API development
-- Preparing for **Summer Research Internships** at IITs / NITs
+![Stellar](https://img.shields.io/badge/Stellar_Soroban-3C3489?style=flat-square&logo=stellar&logoColor=white)
+![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-3C3489?style=flat-square)
 
 ---
 
-## Connect
+## Pinned projects
 
-- **Email:** nkarthik935@gmail.com
-- **LinkedIn:**[linkedin.com/in/n-karthik-mohan-rao](https://www.linkedin.com/in/n-karthik-mohan-rao-b91b32283/)
+### CampusWires
+Multi-college campus management platform. Role-based auth (3 tiers — student / club-admin / super-admin), normalized MySQL schema with multi-tenant data isolation, JWT-secured sessions, broadcast notification system.
+`Node.js` `React` `MySQL` `Redis` `JWT`
+
+### Multi-sig wallet (Soroban)
+M-of-N multisig smart contract on the Stellar blockchain. Configurable quorum approval before any transaction executes. Zero-panic Rust logic using the ownership model. Verified across approval, rejection, and edge-case scenarios. Evaluated by industry mentors at a competitive bootcamp.
+`Rust` `Stellar Soroban SDK`
+
+### ML inference API
+REST API wrapping a trained ML model from IIIT Naya Raipur training. Deployed publicly.
+`Python` `FastAPI` `Docker`
 
 ---
 
-![Karthik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=n-karthik&show_icons=true&theme=default&hide_border=true)
+## Credentials
+
+- AI & ML training — IIIT Naya Raipur *(Next-Gen AI with Python: ML, LLMs, and Agentic Intelligence)*
+- Cybersecurity bootcamp — IIT Bhilai
+- Stellar blockchain bootcamp — competitive track, multi-sig project evaluated by industry mentors
+- Google Student Ambassador 2026
+- Diploma in CSE — CGPA 8.85 / 10
 
 ---
 
-> *"Build things that work. Understand why they work. Then make them better."*
+## GitHub stats
+
+![Karthik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=n-karthik&show_icons=true&hide_border=true&theme=default)
+
+---
+
+📬 nkarthik935@gmail.com · [LinkedIn](https://www.linkedin.com/in/n-karthik-mohan-rao-b91b32283/)
